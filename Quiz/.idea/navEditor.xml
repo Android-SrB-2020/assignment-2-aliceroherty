@@ -13,8 +13,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-256" />
-                            <option name="y" value="-142" />
+                            <option name="x" value="-57" />
+                            <option name="y" value="-143" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -25,13 +25,13 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-261" />
-                            <option name="y" value="139" />
+                            <option name="x" value="82" />
+                            <option name="y" value="162" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_cheatFragment_to_mainFragment">
+                            <entry key="action_cheatFragment_to_gameFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -41,23 +41,18 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="mainFragment">
+                  <entry key="gameFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-550" />
-                            <option name="y" value="-30" />
+                            <option name="x" value="-190" />
+                            <option name="y" value="161" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_mainFragment_to_aboutFragment">
-                              <value>
-                                <LayoutPositions />
-                              </value>
-                            </entry>
-                            <entry key="action_mainFragment_to_cheatFragment">
+                            <entry key="action_gameFragment_to_cheatFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
